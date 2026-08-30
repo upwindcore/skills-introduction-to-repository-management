@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @upwindcore
+/src/backend/database.py      @upwindcore
+/src/backend/routers/auth.py  @upwindcore
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @upwindcore
